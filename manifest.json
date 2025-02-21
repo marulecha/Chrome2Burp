@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "name": "Chrome2Burp",
+  "version": "1.0",
+  "description": "Routes all traffic through Burp Suite.",
+  "permissions": [
+    "proxy",
+    "storage",
+    "webRequest",
+    "webRequestBlocking",
+    "<all_urls>"
+  ],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": true
+  },
+  "icons": {
+    
+  }
+}
