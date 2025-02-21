@@ -4,4 +4,4 @@ Edge/Chrome Extension that Routes all traffic through Burp Suite.
 ```Go to chrome://extensions/```\
 ```Enable Developer Mode```\
 ```Load Unpacked```\
-![](./image.jpg)
+![¯\_(ツ)_/¯]\(./image.jpg)
