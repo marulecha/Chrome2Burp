@@ -1,5 +1,5 @@
 chrome.runtime.onInstalled.addListener(() => {
-    console.log("Burp Proxy Extension Installed");
+    console.log("C2B Extension Installed");
     
     let config = {
       mode: "fixed_servers",
